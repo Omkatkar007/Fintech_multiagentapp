@@ -110,20 +110,7 @@ python app.py path/to/proposal.pdf --report risk_assessment.pdf
 
 ---
 
-## ☁️ Deployment
 
-### Deploy to Streamlit Community Cloud (Recommended)
-
-1. Push your repository to GitHub.
-2. Sign in to [Streamlit Community Cloud](https://share.streamlit.io).
-3. Click **New app** and connect your GitHub repository.
-4. Select `app.py` as the main file path.
-5. In **Advanced Settings**, paste your `.env` contents into the **Secrets** field in TOML format:
-   ```toml
-   GROQ_API_KEY = "your-groq-api-key"
-   LLM_MODEL = "llama-3.1-70b-versatile"
-   ```
-6. Click **Deploy!**
 
 ---
 
