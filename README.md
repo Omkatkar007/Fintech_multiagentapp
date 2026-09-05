@@ -1,4 +1,6 @@
-# Multi-Agent Business Proposal Reviewer
+# RiskSight AI
+
+**Live Demo**: [https://risksightai.streamlit.app/](https://risksightai.streamlit.app/)
 
 Upload a business proposal PDF and receive independent market, finance, legal, technology, HR, GTM, ESG, and risk findings followed by a committee decision: **Approve**, **Reject**, or **Conditional Approval**.
 

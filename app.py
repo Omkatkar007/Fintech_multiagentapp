@@ -27,8 +27,8 @@ def main() -> None:
 		import streamlit as st
 	except ImportError as exc:
 		raise SystemExit("Install requirements.txt or provide a proposal path on the command line.") from exc
-	st.set_page_config(page_title="Proposal Review Committee", page_icon="P", layout="wide")
-	st.title("Business Proposal Review Committee")
+	st.set_page_config(page_title="RiskSight AI", page_icon="📊", layout="wide")
+	st.title("RiskSight AI")
 	st.caption("Upload a proposal to run market, finance, legal, technology, HR, GTM, ESG, and risk reviews.")
 	
 	upload_mode = st.radio("Upload Mode", ["Single File Upload", "Bulk Folder Upload"], horizontal=True)
