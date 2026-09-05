@@ -1,0 +1,16 @@
+### Deterministic Mock Review
+
+**Market Agent:** Validated (Score 55/100)
+**Financial Agent:** Validated (Score 55/100)
+**Legal Agent:** Validated (Score 55/100)
+**Technology Agent:** Validated (Score 55/100)
+**HR Agent:** Validated (Score 55/100)
+**GTM Agent:** Validated (Score 55/100)
+**ESG Agent:** Validated (Score 55/100)
+**Risk Agent:** Validated (Risk Level: Medium)
+
+#### Summary of Strengths
+- Promising product
+- Competent team
+
+### Final Committee Decision: **Conditional Approval**

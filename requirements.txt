@@ -1,5 +1,5 @@
-streamlit
-crewai
-langchain-community
-pdfplumber
-python-docx
+streamlit>=1.36
+pypdf>=4.0
+reportlab>=4.0
+python-docx>=1.1.0
+pandas>=2.0.0
